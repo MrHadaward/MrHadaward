@@ -1,4 +1,4 @@
-### Hi! 👋
+### Welcome! 👋
 
 - 📚 I’m currently studying at Unisinos
 - 📖 I’m currently learning HTML, CSS and Js
