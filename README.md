@@ -4,7 +4,7 @@
 - 📖 I’m currently learning HTML, CSS and Js
 - 💻 I’m looking for my first job
 - 📌 I want to learn more and get some experience
-- My interest areas are web fullstack and hacking
+- 🧭 My interest areas are fullstack development and hacking
 
 ### Best technologies
 <div>
