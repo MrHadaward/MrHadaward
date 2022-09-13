@@ -21,6 +21,6 @@
 ### Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrHadaward&show_icons=true&theme=dark">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHadaward&layout=compact&theme=dark">
+  <img height="145" src="https://github-readme-stats.vercel.app/api?username=MrHadaward&show_icons=true&theme=dark">
+  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHadaward&layout=compact&theme=dark">
 </div>
