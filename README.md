@@ -17,3 +17,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px">
 </div>
+
+### Stats
+
+<div>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"> 
+</div>
